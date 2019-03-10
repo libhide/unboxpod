@@ -46,4 +46,3 @@ Games
 
 - [Twitter](https://twitter.com/KabirMakesGames)
 - [Email](mailto:overcomestudios@gmail.com)
-- Overcome ([Steam](https://store.steampowered.com/app/1020090/Overcome/)) ([Website](https://www.overcomegame.com/))

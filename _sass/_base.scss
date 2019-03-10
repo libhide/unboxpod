@@ -130,10 +130,8 @@ nav#nav {
 }
 
 footer {
-  background-color: #1d1d1d;
-  height: 100px;
+  height: 80px;
   font-size: 0.9rem;
-  color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -144,9 +142,4 @@ footer {
       -ms-flex-pack: center;
           justify-content: center;
   text-align: center;
-
-  a.underline {
-    color: #ffffff;
-    &::after { background: #ffffff; }
-  }
 }
