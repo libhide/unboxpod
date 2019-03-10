@@ -32,3 +32,61 @@ section.hero {
     }
   }
 }
+
+section.episodes {
+  margin-bottom: 500px; // temp
+  
+  h3 {
+    margin: 50px auto 0;
+    text-align: center;
+  }
+
+  .grid {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+
+  .episode {
+    margin-top: 20px;    
+
+    .guest {
+      height: 0;
+      padding-top: 62.4%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: top;
+      background-image: url('/img/guests/kabirlal.jpg');
+      -webkit-transition: -webkit-box-shadow 0.3s ease;
+      transition: -webkit-box-shadow 0.3s ease;
+      transition: box-shadow 0.3s ease;
+      transition: box-shadow 0.3s ease, -webkit-box-shadow 0.3s ease;
+      cursor: pointer;
+
+      &:hover {
+        -webkit-box-shadow: inset 0 0 0 1000px hsla(0, 0%, 100%, .1);
+                box-shadow: inset 0 0 0 1000px hsla(0, 0%, 100%, .1);
+      }
+    }
+
+    .title {
+      margin: 15px auto 0;
+    }
+
+    .excerpt {
+      margin: 10px auto 0;
+      color: #4d4d4d;
+      font-size: 1em;
+    }
+    
+    @media screen and (min-width: 900px) {
+      width: calc(50% - 20px);
+      margin-top: 50px;
+    }
+  }
+}
