@@ -40,7 +40,11 @@ h5 { font-size: 1.6em; }
 h6 { font-size: 1.4em; }
 
 p {
-  font-size: 1.2em;
+  font-size: 1.1em;
+    
+  @media screen and (min-width: 1200px) {
+    font-size: 1.2em;
+  }
 }
 
 a {
@@ -73,6 +77,10 @@ a {
 
 ul {
   font-size: 1.1em;
+}
+
+section {
+  padding: 0 10px;
 }
 
 .container {
