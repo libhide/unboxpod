@@ -2,8 +2,8 @@ section.hero {
   .illustration {
     max-width: 100%;
     display: block;
-    margin: 0 auto;
-    width: 65%;
+    margin: 35px auto 0;
+    width: 50%;
 
     @media screen and (min-width: 700px) {
       width: 40%;
@@ -55,9 +55,6 @@ section.episodes {
   }
 
   .episode {
-    margin-top: 20px;
-    // animation-delay: 2s;
-    
     a {
       &:hover { opacity: 1; }
     }
