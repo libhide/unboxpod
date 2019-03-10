@@ -1,0 +1,6 @@
+<meta name="description" content="{{ site.description }}" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:image" content="{% if page.img %}{{ page.img | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.graph | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta name="twitter:card" content="{% if page.img %}{{ page.img | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.graph | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
