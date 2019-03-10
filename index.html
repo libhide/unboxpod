@@ -10,23 +10,16 @@ layout: default
 <section class="episodes" id="episodes">
   <h3>Episodes</h3>
   <div class="grid">
-    <div class="episode">
-      <a href="#">
-        <div class="guest"></div>
-      </a>
-      <div class="title">
-        <h5>Kabir Lal – Indie Game Dev</h5>
+    {% for episode in site.episodes %}
+      <div class="episode">
+        <a href="{{ episode.url }}">
+          <div class="guest" style="background-image: url('{{ episode.guest }}')"></div>
+        </a>
+        <div class="title">
+          <h5>{{ episode.title }}</h5>
+        </div>
+        <p class="excerpt">{{ episode.excerpt }}</p>
       </div>
-      <p class="excerpt">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, voluptate deserunt minima corporis autem debitis nostrum enim optio.</p>
-    </div>
-    <div class="episode">
-      <a href="#">
-        <div class="guest"></div>
-      </a>
-      <div class="title">
-        <h5>Kabir Lal – Indie Game Dev</h5>
-      </div>
-      <p class="excerpt">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, voluptate deserunt minima corporis autem debitis nostrum enim optio.</p>
-    </div>
+    {% endfor %}
   </div>
 </section>

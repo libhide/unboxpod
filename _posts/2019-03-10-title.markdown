@@ -1,9 +1,0 @@
----
-layout: default
-title:  "Title"
-date:   2019-03-10 03:45:24 +0530
----
-
-# This is the title
-
-These are the show notes!

@@ -13,3 +13,8 @@ sass:
 author:
   facebook: TheRatik
   twitter: Ratik96
+
+collections:
+  episodes:
+    output: true
+    permalink: /:collection/:slug
