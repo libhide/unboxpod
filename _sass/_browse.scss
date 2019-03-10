@@ -22,7 +22,8 @@ section.hero {
     text-align: center;
     margin: 30px auto 0;
     line-height: 1.4;
-    animation-delay: 0.3s;
+    -webkit-animation-delay: 0.3s;
+            animation-delay: 0.3s;
 
     @media screen and (min-width: 1200px) {
       margin: 50px auto 0;
