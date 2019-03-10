@@ -1,14 +1,15 @@
 title: Unbox Podcast
 description: >- 
   Within the immediacy of their youth, Ratik and his friends discuss growing up in modern India. They lay out their identity by discussing omnipresent expectations, the structures of learning they've been framed by, grapple with their passions, and reflect upon the ambiguous yet precise nature of it all. Join them in feeling out experiences of a lifetime thus far!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "unboxpod.co"
 
 markdown: kramdown
 
 sass:
   style: compressed
   sass_dir: _sass
+
+exclude: [.gitignore]
 
 author:
   facebook: TheRatik
