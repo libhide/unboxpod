@@ -125,6 +125,12 @@ nav#nav {
     font-weight: bold;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: row;
+
+    li {
+      margin-right: 22px;
+    }
   }
 
   @media screen and (min-width: 1200px) {
