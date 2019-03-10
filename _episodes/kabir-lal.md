@@ -3,6 +3,7 @@ layout: episode
 title:  Kabir Lal – Indie Game Dev
 slug: /kabir-lal/
 guest: /img/guests/kabirlal.jpg
+img: /img/guests/kabirlal.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/1-I-want-to-study-Physics--not-Engineering-e1oib7/a-a492oi"
 ---
 
