@@ -2,7 +2,7 @@ section.hero {
   .illustration {
     max-width: 100%;
     display: block;
-    margin: 50px auto 0;
+    margin: 0 auto;
     width: 65%;
 
     @media screen and (min-width: 700px) {
@@ -10,12 +10,10 @@ section.hero {
     }
 
     @media screen and (min-width: 900px) {
-      margin: 50px auto 0;
       width: 30%;
     }
 
     @media screen and (min-width: 1200px) {
-      margin: 20px auto 0;
       width: 20%;
     }
   }
@@ -31,11 +29,13 @@ section.hero {
       text-align: center;
     }
   }
+
+  @media screen and (min-width: 1200px) {
+    margin: 40px 0 100px; 
+  }
 }
 
 section.episodes {
-  margin-bottom: 500px; // temp
-  
   h3 {
     margin: 50px auto 0;
     text-align: center;
@@ -88,5 +88,9 @@ section.episodes {
       width: calc(50% - 20px);
       margin-top: 50px;
     }
+  }
+
+  @media screen and (min-width: 1200px) {
+    margin: 100px 0; 
   }
 }
