@@ -2,7 +2,7 @@
 layout: episode
 title:  Tejasri Gururaj – Student of Physics
 slug: /tejasri-gururaj/
-guest: /img/guests/tejasri.jpg
+guest: /img/guests/tejasrigururaj.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/1-I-want-to-study-Physics--not-Engineering-e1oib7/a-a492oi"
 ---
 
@@ -35,6 +35,6 @@ Podcasts
 - [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w)
 - [Dan Carlin's Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 
-###### Tejasri's Socials
+###### Tejasri on the Internet
 
 - [Instagram](https://instagram.com/@darkmatter_96)
