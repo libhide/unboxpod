@@ -3,15 +3,15 @@ layout: default
 ---
 
 <section class="hero">
-  <img class="illustration" src="/img/unbox.png" alt="Illustration of a cute brain popping out of a jack-in-the-box style box.">
-  <p class="blurb">{{ site.description }}</p>
+  <img class="illustration animated fadeInUp" src="/img/unbox.png" alt="Illustration of a cute brain popping out of a jack-in-the-box style box.">
+  <p class="blurb animated fadeInUp">{{ site.description }}</p>
 </section>
 
 <section class="episodes" id="episodes">
   <h3>Episodes</h3>
   <div class="grid">
     {% for episode in site.episodes %}
-      <div class="episode">
+      <div class="episode animated slideInUp">
         <a href="{{ episode.url }}">
           <div class="guest" style="background-image: url('{{ episode.guest }}')"></div>
         </a>
