@@ -4,6 +4,7 @@ title:  Tejasri Gururaj – Student of Physics
 slug: /tejasri-gururaj/
 guest: /img/guests/tejasrigururaj.jpg
 img: /img/guests/tejasrigururaj.jpg
+graph: /img/guests/tejasrigururaj-graph.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/1-I-want-to-study-Physics--not-Engineering-e1oib7/a-a492oi"
 ---
 

@@ -4,6 +4,7 @@ title:  Kabir Lal – Indie Game Dev
 slug: /kabir-lal/
 guest: /img/guests/kabirlal.jpg
 img: /img/guests/kabirlal.jpg
+graph: /img/guests/kabirlal-graph.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/2-Kabir-Likes-Games--Kabir-Makes-Games-e3dubo"
 ---
 
