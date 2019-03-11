@@ -1,6 +1,18 @@
-<meta name="description" content="{{ site.description }}" />
-<meta property="og:url" content="{{ site.url }}" />
-<meta property="og:image" content="{% if page.img %}{{ page.img | prepend: site.url }}{% else %}{{ site.graph | prepend: site.url }}{% endif %}" />
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta property="og:description" content="{{ site.description }}" />
-<meta name="twitter:card" content="{% if page.img %}{{ page.img | prepend: site.url }}{% else %}{{ site.graph | prepend: site.url }}{% endif %}" />
+<!-- Facebook Open Graph -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:image" content="{% if page.img %}{{ page.img | prepend: site.url }}{% else %}{{ site.graph | prepend: site.url }}{% endif %}">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="314">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:locale" content="{{ site.locale }}">
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.author.twitter }}">
+<meta name="twitter:creator" content="@{{ site.author.twitter }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image" content="{% if page.img %}{{ page.img | prepend: site.url }}{% else %}{{ site.graph | prepend: site.url }}{% endif %}">
+<meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">

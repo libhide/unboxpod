@@ -1,8 +1,10 @@
 title: Unbox Podcast
+name: Unbox Podcast
+locale: en_us
 description: >- 
   Unbox is an independently produced podcast about what it is like to grow up in modern India. Each episode of the show showcases the unique journey of individuals pursuing interesting careers. Gone are the days of everyone becoming an engineer, doctor or lawyer.
 url: "https://unboxpod.co"
-graph: /img/seo.png
+graph: /img/seo.jpg
 
 markdown: kramdown
 
