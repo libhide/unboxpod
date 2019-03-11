@@ -4,7 +4,7 @@ title:  Kabir Lal – Indie Game Dev
 slug: /kabir-lal/
 guest: /img/guests/kabirlal.jpg
 img: /img/guests/kabirlal.jpg
-embed: "https://anchor.fm/unboxpod/embed/episodes/1-I-want-to-study-Physics--not-Engineering-e1oib7/a-a492oi"
+embed: "https://anchor.fm/unboxpod/embed/episodes/2-Kabir-Likes-Games--Kabir-Makes-Games-e3dubo"
 ---
 
 Ratik talks to Kabir Lal, an Indie Game Developer whose launching his first game very soon. Yes, Kabir Makes Games! How cool! 
@@ -19,7 +19,7 @@ In the conversation that follows, Ratik and Kabir talk about:
 
 ##### Links from the Conversation
 
-1. Overcome ([Steam](https://store.steampowered.com/app/1020090/Overcome/)) ([Website](https://www.overcomegame.com/)) - Buy Kabir's Game!
+1. Overcome ([Steam](https://store.steampowered.com/app/1020090/Overcome/))([Website](https://www.overcomegame.com/)) - Buy Kabir's Game!
 2.  [The Last Game I Make Before I Die](https://www.youtube.com/watch?v=LQHtOg46eOw) (talk that inspired Kabir)
 3.  [Brackeys](https://www.youtube.com/user/Brackeys) (Learning Resource - programming)
 4.  [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/) (Learning Resource - game dev) 
