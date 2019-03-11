@@ -8,7 +8,7 @@ graph: /img/guests/kabirlal-graph.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/2-Kabir-Likes-Games--Kabir-Makes-Games-e3dubo"
 ---
 
-Ratik talks to Kabir Lal, an Indie Game Developer whose launching his first game very soon. Yes, Kabir Makes Games! How cool! 
+Ratik talks to Kabir Lal, an Indie Game Developer who's launching his first game very soon. Yes, Kabir Makes Games! How cool! 
 
 In the conversation that follows, Ratik and Kabir talk about: 
 
