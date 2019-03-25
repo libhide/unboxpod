@@ -1,6 +1,7 @@
 ---
 layout: episode
-title:  Tejasri Gururaj – Student of Physics
+title: Tejasri Gururaj – Student of Physics
+episode_number: 1
 slug: /tejasri-gururaj/
 guest: /img/guests/tejasrigururaj.jpg
 img: /img/guests/tejasrigururaj.jpg
