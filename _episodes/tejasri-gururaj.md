@@ -20,10 +20,10 @@ Textbooks
 Books
 
 - [Amerika by Kafka](https://amzn.to/2zejeg8)
-- [Dr. Physics A](https://www.youtube.com/user/DrPhysicsA)
 
 YouTube Channels
 
+- [Dr. Physics A](https://www.youtube.com/user/DrPhysicsA)
 - [Walter Lewin Lectures](https://bit.ly/2ur7Xpm)
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 
