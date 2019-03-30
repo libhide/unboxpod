@@ -3,9 +3,9 @@ layout: episode
 title: Sakshi Dhaka – Student of Lingustics
 episode_number: 3
 slug: /sakshi-dhaka/
-guest: /img/guests/kabirlal.jpg
-img: /img/guests/kabirlal.jpg
-graph: /img/guests/kabirlal-graph.jpg
+guest: /img/guests/sakshidhaka.jpg
+img: /img/guests/sakshidhaka.jpg
+graph: /img/guests/sakshidhaka-graph.jpg
 embed: "https://anchor.fm/unboxpod/embed/episodes/2-Kabir-Likes-Games--Kabir-Makes-Games-e3dubo"
 ---
 
