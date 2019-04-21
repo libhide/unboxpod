@@ -1,13 +1,13 @@
 ---
 layout: episode
-title: Sakshi Dhaka – Lady Linguist
+title: Sakshi Dhaka – Student of Linguistics
 episode_number: 3
 slug: /sakshi-dhaka/
 guest: /img/guests/sakshidhaka.jpg
 img: /img/guests/sakshidhaka.jpg
 graph: /img/guests/sakshidhaka-graph.jpg
 excerpt: Ratik talks to Sakshi, a Masters student at JNU studying Linguistics. Sakshi's journey of finding a niche that she truly enjoys being in is a classic example of how there are no 'right' decisions in life.
-embed: "https://anchor.fm/unboxpod/embed/episodes/2-Kabir-Likes-Games--Kabir-Makes-Games-e3dubo"
+embed: "https://anchor.fm/unboxpod/embed/episodes/3-Language-with-a-capital-L-e3pj1s/a-adetri"
 ---
 
 Ratik speaks to Sakshi, a Masters student at JNU studying Linguistics. Sakshi's journey of finding a niche that she truly enjoys being in is a classic example of how [there are no right decisions in life](https://www.raptitude.com/2018/07/right-decision/).
