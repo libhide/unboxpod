@@ -111,16 +111,33 @@ nav#nav {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
 
+    a { align-self: center; }
+          
     li {
       margin-right: 10px;
 
       @media screen and (min-width: 900px) {
         margin-right: 22px;
+      }
+    }
+
+    .twitter {
+      display: none;
+
+      svg {
+        width: 62%;
+      }
+
+      @media screen and (min-width: 900px) {
+        display: inherit;
       }
     }
   }
