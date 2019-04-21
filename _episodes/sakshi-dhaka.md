@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: Sakshi Dhaka – Student of Lingustics
+title: Sakshi Dhaka – Lady Linguist
 episode_number: 3
 slug: /sakshi-dhaka/
 guest: /img/guests/sakshidhaka.jpg
