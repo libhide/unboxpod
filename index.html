@@ -11,7 +11,8 @@ img: /img/seo.png
 <section class="episodes" id="episodes">
   <h3>Episodes</h3>
   <div class="grid">
-    {% for episode in site.episodes %}
+    {% assign ordered_episodes = site.episodes | sort: "episode_number" | reverse %}
+    {% for episode in ordered_episodes %}
       <div class="episode animated slideInUp">
         <a href="{{ episode.url }}">
           <div class="guest" style="background-image: url('{{ episode.guest }}')"></div>
@@ -19,7 +20,7 @@ img: /img/seo.png
         <div class="title">
           <h5>{{ episode.title }}</h5>
         </div>
-        <p class="excerpt">{{ episode.excerpt }}</p>
+        <p>{{ episode.excerpt }}</p>
       </div>
     {% endfor %}
   </div>

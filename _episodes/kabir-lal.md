@@ -1,6 +1,7 @@
 ---
 layout: episode
-title:  Kabir Lal – Indie Game Dev
+title: Kabir Lal – Indie Game Dev
+episode_number: 2
 slug: /kabir-lal/
 guest: /img/guests/kabirlal.jpg
 img: /img/guests/kabirlal.jpg
