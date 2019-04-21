@@ -14,7 +14,7 @@ Ratik speaks to Sakshi, a Masters student at JNU studying Linguistics. Sakshi's 
 
 The conversation that follows takes you through a multitude of things in Sakshi's life. There is talk about her experience with boarding school to her quintessential DU-experience and to finally the choice that introduced her to Linguistics. And well, the rest is history.
 
-**Links from the Conversation** (in the order they were talked about)
+**Links from the Conversation**
 
 1. [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science), [Linguistics](https://en.wikipedia.org/wiki/Linguistics), [Cognitive Linguistics](https://en.wikipedia.org/wiki/Cognitive_linguistics), [Syntax](https://en.wikipedia.org/wiki/Syntax)
 2. [About Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)
