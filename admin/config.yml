@@ -9,7 +9,7 @@ public_folder: "/img"
 
 collections:
   - name: "episodes"
-    label: "Episodes"
+    label: "Episode"
     folder: "_episodes"
     create: true
     slug: "{{fields.slug}}"
@@ -22,4 +22,5 @@ collections:
       - {label: "Guest's Photo", name: "img", widget: "image", allow_multiple: false}
       - {label: "Guest's Graph Image", name: "graph", widget: "image", allow_multiple: false}
       - {label: "Episode Embed Link", name: "embed", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
