@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "img/uploads"
+public_folder: "/img"
+
+collections:
+  - name: "episodes"
+    label: "Episodes"
+    folder: "_episodes"
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Episode Number", name: "episode_number", widget: "number", min: 0}
+      - {label: "Episode Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "slug", widget: "string"}
+      - {label: "Guest's Photo", name: "guest", widget: "image", allow_multiple: false}
+      - {label: "Guest's Photo", name: "img", widget: "image", allow_multiple: false}
+      - {label: "Guest's Graph Image", name: "graph", widget: "image", allow_multiple: false}
+      - {label: "Episode Embed Link", name: "embed", widget: "string"}
+
