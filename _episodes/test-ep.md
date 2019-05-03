@@ -3,9 +3,9 @@ layout: episode
 episode_number: 4
 title: Test Episode
 slug: /test-ep/
-guest: /img/tejasrigururaj.jpg
-img: /img/tejasrigururaj.jpg
-graph: /img/tejasrigururaj.jpg
+guest: /img/tg.jpg
+img: /img/tg.jpg
+graph: /img/tg-graph.jpg
 embed: 'https://anchor.fm/unboxpod/embed/episodes/0-Introducing-Unbox-e1naje'
 ---
 Ratik talks to Tejasri about what its like to pursue Physics in India. They talk about everything from education in school to staying motivated to follow your passion when things get tough.
