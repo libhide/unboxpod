@@ -4,8 +4,7 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "img/uploads"
-public_folder: "/img/guests"
+media_folder: "img/guests"
 
 collections:
   - name: "episodes"
