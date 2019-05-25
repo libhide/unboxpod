@@ -8,9 +8,18 @@
       <article class="episode">
         <h3 class="title animated fadeInUp">{{ page.title }}</h3>
         <div class="guest animated fadeInUp" style="background-image: url('{{ page.guest }}')"></div>
-        <div class="podcast-wrapper">
-          <iframe src="{{ page.embed }}" class="podcast" frameborder="0" scrolling="no"></iframe>
-        </div>
+        {% if page.embed2 %}
+          <div class="podcast-wrapper">
+            <iframe src="{{ page.embed }}" class="podcast" frameborder="0" scrolling="no"></iframe>
+          </div>
+          <div class="podcast-wrapper">
+            <iframe src="{{ page.embed2 }}" class="podcast" frameborder="0" scrolling="no"></iframe>
+          </div>
+        {% else %}
+          <div class="podcast-wrapper">
+            <iframe src="{{ page.embed }}" class="podcast" frameborder="0" scrolling="no"></iframe>
+          </div>
+        {% endif %}
         <h4 class="show-notes-label">Show Notes</h4>
         {{ content }}
       </article>

@@ -19,5 +19,6 @@ collections:
       - {label: "Guest's Photo", name: "img", widget: "image", allow_multiple: false}
       - {label: "Guest's Graph Image", name: "graph", widget: "image", allow_multiple: false}
       - {label: "Episode Embed Link", name: "embed", widget: "string"}
+      - {label: "Episode Embed Link - Part 2", name: "embed2", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
