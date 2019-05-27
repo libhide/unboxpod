@@ -30,7 +30,7 @@ In the conversation that follows, there is talk about:
 4. [Dunning-Kruger Curve](https://www.google.com/search?q=dunning+kruger+curve&client=firefox-b-d&sa=X&biw=1440&bih=781&tbm=isch&source=iu&ictx=1&fir=XIxpKYtZ2thlJM%253A%252C_Jj6J9xvsbRqZM%252C_&vet=1&usg=AI4_-kRVAGawLxpiCd3pHCwLNi7eAT6ajQ&ved=2ahUKEwibnvbD_LniAhXMp48KHUhCCN4Q9QEwAHoECAcQBA#imgrc=XIxpKYtZ2thlJM:&vet=1)
 5. [Medium](https://medium.com/)
 6. [IDC](http://www.idc.iitb.ac.in/)
-7. Aaron Draplin [Skillshare](https://www.skillshare.com/profile/Aaron-Draplin/6666857) [YouTube](https://www.youtube.com/results?search_type=search_videos&search_query=aaron+draplin&search_sort=relevance&search_category=0&page=)
+7. Aaron Draplin [(Skillshare)](https://www.skillshare.com/profile/Aaron-Draplin/6666857) [(YouTube)](https://www.youtube.com/results?search_type=search_videos&search_query=aaron+draplin&search_sort=relevance&search_category=0&page=)
 
 ##### Gyan Recommends
 
