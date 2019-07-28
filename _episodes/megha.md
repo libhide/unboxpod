@@ -7,7 +7,7 @@ guest: /img/guests/megha.jpg
 img: /img/guests/megha.jpg
 graph: /img/guests/megha-graph.jpg
 embed: >-
-  https://anchor.fm/unboxpod/embed/episodes/4-Do-your-extra-curriculars--Kids---Part-1-e45bg5
+  https://anchor.fm/unboxpod/embed/episodes/No-Knowledge-is-Wasted-e4ok4f
 ---
 
 Ratik talks to Megha, a recent architecture graduate from Sushant School of Art and Architecture.
