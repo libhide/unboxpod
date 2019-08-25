@@ -119,10 +119,10 @@ nav#nav {
         -ms-flex-direction: row;
             flex-direction: row;
 
-    a { align-self: center; }
+    a { -ms-flex-item-align: center; align-self: center; }
           
     li {
-      margin-right: 10px;
+      margin-right: 7px;
 
       @media screen and (min-width: 900px) {
         margin-right: 22px;
@@ -132,8 +132,28 @@ nav#nav {
     .twitter {
       display: none;
 
+      li {
+        margin-right: 9px;
+      }
+
       svg {
-        width: 62%;
+        width: 20px;
+        height: 20px;
+        margin-top: 6px;
+      }
+
+      @media screen and (min-width: 900px) {
+        display: inherit;
+      }
+    }
+
+    .instagram {
+      display: none;
+
+      svg {
+        width: 18px;
+        height: 18px;
+        margin-top: 2px;
       }
 
       @media screen and (min-width: 900px) {
