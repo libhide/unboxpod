@@ -31,10 +31,6 @@ In the conversation that follows, Ratik and Kabir talk about:
 
 ##### Kabir Recommends
 
-Books
-
-1. [12 Rules for Life: An Antidote to Chaos](https://www.amazon.in/12-Rules-Life-Antidote-Chaos/dp/0241351642/ref=sr_1_2?ie=UTF8&qid=1552226570&sr=8-2&keywords=12+rules+for+life+by+jordan+b.+peterson)
-
 Podcasts
 
 1. [The Ground Up Show](http://mattdavella.com/podcast)
