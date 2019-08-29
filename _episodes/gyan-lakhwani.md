@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode_number: 4
-title: Gyan Lakhwani – Self-Taught Designer
+title: Gyan – Self-Taught Designer
 slug: /gyan-lakhwani/
 guest: /img/guests/gyanlakhwani.jpg
 img: /img/guests/gyanlakhwani.jpg
