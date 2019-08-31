@@ -30,7 +30,6 @@ In the conversation that follows, Ratik and Sambit talk about:
 - [Pearl Academy](https://pearlacademy.com/)
 - [New York Video](https://www.youtube.com/watch?v=ueuhiYwl1wY)
 - [Milk Studios](https://www.milkstudios.com)
-- Newsletter (sva, etc. jobs)
 - [AGENC Article](https://medium.com/@agenc.in/reviving-the-endangered-film-photography-9c7706d8a9a0)
 
 ##### Sambit Recommends
