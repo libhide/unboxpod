@@ -8,7 +8,7 @@ img: /img/guests/sambitbiswas.jpg
 graph: /img/guests/sambitbiswas-graph.jpg
 excerpt: Ratik talks to Sambit Biswas, a photographer currently studying at the School of Visual Arts in New York and also doing a bunch of freelancing on the side.
 embed: >-
-  https://anchor.fm/unboxpod/embed/episodes/No-Knowledge-is-Wasted-e4ok4f
+  https://anchor.fm/unboxpod/embed/episodes/Learning-by-Doing-e54knr
 ---
 
 _If you're an Unbox super fan and think the show adds value to your life then you can now become a supporter of the show: [click here](https://anchor.fm/unboxpod/support)_
